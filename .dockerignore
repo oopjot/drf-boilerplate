@@ -1,0 +1,11 @@
+pgdata/
+.vscode/
+.git*
+*.pyc
+__pycache__
+.idea
+.coverage*
+*.log
+static
+.env
+
